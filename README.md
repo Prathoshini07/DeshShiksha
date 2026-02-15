@@ -98,8 +98,3 @@ The system adapts to each student’s learning pace and delivers culturally rele
 - Community learning groups
 - Regional curriculum integration
 - Predictive learning analytics
-
----
-
-## Repository Structure
-
